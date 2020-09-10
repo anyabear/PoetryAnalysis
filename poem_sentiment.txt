@@ -1,0 +1,520 @@
+TextBlob:
+************ 
+ happy sentences 
+************ 
+ 
+Steel turning to light
+
+on sweat-slick neck.
+The man genuflected, his lips
+
+pressed to black boot as the words spilled
+
+from his mouth like rosaries
+
+shattering from too much
+
+Father.
+Am I wrong to love
+
+those eyes, to see something so clear
+
+and blue-beg to remain
+
+clear and blue?
+Father,
+
+how quickly the blade becomes
+
+You.
+There's a knife touching
+
+Your name lodged inside the throat.
+
+************ 
+ sad sentences 
+************ 
+ 
+Behind the wooden fence, a field lit
+
+with summer, a man pressing a shank
+
+to another man's throat.
+
+
+************ 
+ happy lines 
+************ 
+ 
+to another man's throat. Steel turning to light
+shattering from too much
+those eyes, to see something so clear
+clear and blue? Did my cheek twitch
+how quickly the blade becomes
+his tongue. There's a knife touching
+
+************ 
+ sad lines 
+************ 
+ 
+Behind the wooden fence, a field lit
+pressed to black boot as the words spilled
+
+************ 
+ confusing lines 
+************ 
+ 
+to its sinner. The hour suddenly
+Father. Am I wrong to love
+kneeling in a house with every door kicked open
+
+
+************ 
+ happy words 
+************ 
+ 
+light
+much
+love
+clear
+clear
+quickly
+touching
+
+************ 
+ sad words 
+************ 
+ 
+Behind
+black
+wrong
+
+************ 
+ confusing words 
+************ 
+ 
+suddenly
+blue
+open
+
+NLTK:
+
+************ 
+ happy lines 
+************ 
+ 
+0.533
+Dearest Father, forgive me for I have seen.
+0.0
+Behind the wooden fence, a field lit
+0.0
+with summer, a man pressing a shank
+0.0
+to another man's throat. Steel turning to light
+0.344
+on sweat-slick neck. Forgive me
+0.0
+for not calling Your name. For thinking:
+0.0
+this must be how every prayer
+0.434
+begins-the word Please cleaving
+0.0
+the wind into fragments, into what
+0.0
+a boy hears in his need to know
+0.33
+how pain blesses the body back
+0.0
+to its sinner. The hour suddenly
+0.0
+stilled. The man genuflected, his lips
+0.0
+pressed to black boot as the words spilled
+0.385
+from his mouth like rosaries
+0.0
+shattering from too much
+0.408
+Father. Am I wrong to love
+0.359
+those eyes, to see something so clear
+0.0
+and blue-beg to remain
+0.302
+clear and blue? Did my cheek twitch
+0.0
+when that darkness bloomed from his crotch
+0.147
+and trickled into ochre dirt? Father,
+0.0
+how quickly the blade becomes
+0.0
+You. But let me begin again: There's a boy
+0.0
+kneeling in a house with every door kicked open
+0.0
+to summer. There's a question corroding
+0.0
+his tongue. There's a knife touching
+0.0
+Your name lodged inside the throat.
+0.375
+Dearest Father, what becomes of the boy
+0.354
+no longer a boy? Please-
+0.0
+what becomes of the shepherd
+
+************ 
+ sad lines 
+************ 
+ 
+0.303
+how pain blesses the body back
+0.301
+Father. Am I wrong to love
+0.25
+when that darkness bloomed from his crotch
+0.32
+and trickled into ochre dirt? Father,
+0.338
+no longer a boy? Please-
+
+************ 
+happy sentences 
+************ 
+ 
+0.533
+Dearest Father, forgive me for I have seen.
+0.259
+Forgive me
+
+for not calling Your name.
+0.147
+For thinking:
+
+this must be how every prayer
+
+begins-the word Please cleaving
+
+the wind into fragments, into what
+
+a boy hears in his need to know
+
+how pain blesses the body back
+
+to its sinner.
+0.102
+The man genuflected, his lips
+
+pressed to black boot as the words spilled
+
+from his mouth like rosaries
+
+shattering from too much
+
+Father.
+0.39
+Am I wrong to love
+
+those eyes, to see something so clear
+
+and blue-beg to remain
+
+clear and blue?
+0.059
+Did my cheek twitch
+
+when that darkness bloomed from his crotch
+
+and trickled into ochre dirt?
+0.261
+Dearest Father, what becomes of the boy
+
+no longer a boy?
+0.187
+Please-
+
+what becomes of the shepherd
+
+when the sheep are cannibals?
+
+************ 
+sad sentences
+************ 
+ 
+0.082
+For thinking:
+
+this must be how every prayer
+
+begins-the word Please cleaving
+
+the wind into fragments, into what
+
+a boy hears in his need to know
+
+how pain blesses the body back
+
+to its sinner.
+0.111
+Am I wrong to love
+
+those eyes, to see something so clear
+
+and blue-beg to remain
+
+clear and blue?
+0.238
+Did my cheek twitch
+
+when that darkness bloomed from his crotch
+
+and trickled into ochre dirt?
+0.159
+Dearest Father, what becomes of the boy
+
+no longer a boy?
+
+************ 
+happy words
+************ 
+ 
+1.0
+Dearest
+1.0
+forgive
+1.0
+Forgive
+1.0
+Please
+1.0
+blesses
+1.0
+like
+1.0
+love
+1.0
+clear
+1.0
+clear
+1.0
+trickled
+1.0
+Dearest
+1.0
+Please-
+
+************ 
+sad words
+************ 
+ 
+1.0
+pain
+1.0
+wrong
+1.0
+darkness
+1.0
+dirt
+1.0
+no
+
+
+Whole Poem NLTK:
+
+************ 
+sentences 
+************ 
+ 
+{'neg': 0.0, 'neu': 0.467, 'pos': 0.533, 'compound': 0.6908}
+Dearest Father, forgive me for I have seen.
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+Behind the wooden fence, a field lit
+
+with summer, a man pressing a shank
+
+to another man's throat.
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+Steel turning to light
+
+on sweat-slick neck.
+{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.2732}
+Forgive me
+
+for not calling Your name.
+{'neg': 0.082, 'neu': 0.771, 'pos': 0.147, 'compound': 0.3818}
+For thinking:
+
+this must be how every prayer
+
+begins-the word Please cleaving
+
+the wind into fragments, into what
+
+a boy hears in his need to know
+
+how pain blesses the body back
+
+to its sinner.
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+The hour suddenly
+
+stilled.
+{'neg': 0.0, 'neu': 0.898, 'pos': 0.102, 'compound': 0.3612}
+The man genuflected, his lips
+
+pressed to black boot as the words spilled
+
+from his mouth like rosaries
+
+shattering from too much
+
+Father.
+{'neg': 0.111, 'neu': 0.499, 'pos': 0.39, 'compound': 0.8331}
+Am I wrong to love
+
+those eyes, to see something so clear
+
+and blue-beg to remain
+
+clear and blue?
+{'neg': 0.238, 'neu': 0.703, 'pos': 0.059, 'compound': -0.5106}
+Did my cheek twitch
+
+when that darkness bloomed from his crotch
+
+and trickled into ochre dirt?
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+Father,
+
+how quickly the blade becomes
+
+You.
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+But let me begin again: There's a boy
+
+kneeling in a house with every door kicked open
+
+to summer.
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+There's a question corroding
+
+his tongue.
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+There's a knife touching
+
+Your name lodged inside the throat.
+{'neg': 0.159, 'neu': 0.58, 'pos': 0.261, 'compound': 0.34}
+Dearest Father, what becomes of the boy
+
+no longer a boy?
+{'neg': 0.0, 'neu': 0.813, 'pos': 0.187, 'compound': 0.3182}
+Please-
+
+what becomes of the shepherd
+
+when the sheep are cannibals?
+
+************ 
+lines 
+************ 
+ 
+{'neg': 0.0, 'neu': 0.467, 'pos': 0.533, 'compound': 0.6908}
+Dearest Father, forgive me for I have seen.
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+Behind the wooden fence, a field lit
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+with summer, a man pressing a shank
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+to another man's throat. Steel turning to light
+{'neg': 0.0, 'neu': 0.656, 'pos': 0.344, 'compound': 0.2732}
+on sweat-slick neck. Forgive me
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+for not calling Your name. For thinking:
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+this must be how every prayer
+{'neg': 0.0, 'neu': 0.566, 'pos': 0.434, 'compound': 0.3182}
+begins-the word Please cleaving
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+the wind into fragments, into what
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a boy hears in his need to know
+{'neg': 0.303, 'neu': 0.367, 'pos': 0.33, 'compound': 0.0772}
+how pain blesses the body back
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+to its sinner. The hour suddenly
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+stilled. The man genuflected, his lips
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+pressed to black boot as the words spilled
+{'neg': 0.0, 'neu': 0.615, 'pos': 0.385, 'compound': 0.3612}
+from his mouth like rosaries
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+shattering from too much
+{'neg': 0.301, 'neu': 0.291, 'pos': 0.408, 'compound': 0.2732}
+Father. Am I wrong to love
+{'neg': 0.0, 'neu': 0.641, 'pos': 0.359, 'compound': 0.5214}
+those eyes, to see something so clear
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+and blue-beg to remain
+{'neg': 0.0, 'neu': 0.698, 'pos': 0.302, 'compound': 0.3818}
+clear and blue? Did my cheek twitch
+{'neg': 0.25, 'neu': 0.75, 'pos': 0.0, 'compound': -0.25}
+when that darkness bloomed from his crotch
+{'neg': 0.32, 'neu': 0.533, 'pos': 0.147, 'compound': -0.3182}
+and trickled into ochre dirt? Father,
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+how quickly the blade becomes
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+You. But let me begin again: There's a boy
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+kneeling in a house with every door kicked open
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+to summer. There's a question corroding
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+his tongue. There's a knife touching
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+Your name lodged inside the throat.
+{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.5574}
+Dearest Father, what becomes of the boy
+{'neg': 0.338, 'neu': 0.308, 'pos': 0.354, 'compound': 0.0258}
+no longer a boy? Please-
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+what becomes of the shepherd
+
+
+Whole Poem Human:
+(0.0) Dearest Father, forgive me for I have seen. 
+(1.0) Behind the wooden fence, a field lit
+(-1.0) with summer, a man pressing a shank
+(-0.5) to another man's throat. Steel turning to light
+(0.5) on sweat-slick neck. Forgive me
+(0.0) for not calling Your name. For thinking:
+(0.5) this must be how every prayer
+(0.5) begins-the word Please cleaving
+(0.0) the wind into fragments, into what
+(0.0) a boy hears in his need to know
+(-1.0) how pain blesses the body back
+(-0.5) to its sinner. The hour suddenly
+(1.0) stilled. The man genuflected, his lips
+(-0.5) pressed to black boot as the words spilled
+(0.0) from his mouth like rosaries
+(-0.5) shattering from too much
+(0.5) Father. Am I wrong to love
+(1.0) those eyes, to see something so clear
+(0.5) and blue-beg to remain
+(1.0) clear and blue? Did my cheek twitch
+(-1.0) when that darkness bloomed from his crotch
+(0.0) and trickled into ochre dirt? Father,
+(-0.5) how quickly the blade becomes
+(0.0) You. But let me begin again: There's a boy
+(-0.5) kneeling in a house with every door kicked open
+(-0.5) to summer. There's a question corroding
+(-1.0) his tongue. There's a knife touching
+(0.0) Your name lodged inside the throat.
+(0.0) Dearest Father, what becomes of the boy
+(1.0) no longer a boy? Please-
+(1.0) what becomes of the shepherd
+(-1.0) when the sheep are cannibals?
